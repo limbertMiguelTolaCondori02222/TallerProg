@@ -1,0 +1,4 @@
+primera topologia de punto a punto 
+segunda topologia de buss 
+topologia estrella
+
